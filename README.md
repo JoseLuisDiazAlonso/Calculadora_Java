@@ -8,6 +8,10 @@ Este proyecto es una simple calculadora de escritorio creada en Java utilizando 
 - Diseño Flexible. El diseño se adapta a diferentes resoluciones de pantalla.
 - Validación de errores. Manjeo de errores como divisiones por cero.
 
+## 🛠 Tecnologías y Herramientas
+- Java.
+- Swing. Biblioteca de Java para crear interfaces gráficas de usuario (GUI)
+
 
 
 
